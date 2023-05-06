@@ -19,7 +19,7 @@ class UE5MANNEQUIN_API AMannequinCharacter : public ACharacter
 
 public:
 	// Sets default values for this character's properties
-	AMannequinCharacter(const FObjectInitializer& ObjectInitializer);
+	AMannequinCharacter(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get());
 
 protected:
 	// Called when the game starts or when spawned
