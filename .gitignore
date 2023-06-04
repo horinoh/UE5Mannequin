@@ -3,6 +3,8 @@ Build
 DerivedDataCache
 Intermediate
 Saved
+.vs
+.vsconfig
 *.sln
 *.sdf
 *.suo
